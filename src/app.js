@@ -16,10 +16,9 @@ import studentRoutes from './routes/studentRoutes';
 import fileRoutes from './routes/fileRoutes';
 
 const whiteList = [
-  'https://eclectic-gnome-9c17f5.netlify.app/',
+  'https://incomparable-griffin-55a7f9.netlify.app/',
   'http://35.247.250.173/',
   'http://localhost:3000',
-  '0.0.0.0/0',
 ];
 
 const corsOptions = {
